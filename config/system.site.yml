@@ -1,0 +1,14 @@
+uuid: 2d838171-7cb5-4f69-9213-99a936d81acb
+name: sn-gather-content
+mail: eric.michalsen@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
